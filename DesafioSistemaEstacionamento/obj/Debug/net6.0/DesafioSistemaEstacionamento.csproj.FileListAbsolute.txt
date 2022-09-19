@@ -1,0 +1,15 @@
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\bin\Debug\net6.0\DesafioSistemaEstacionamento.exe
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\bin\Debug\net6.0\DesafioSistemaEstacionamento.deps.json
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\bin\Debug\net6.0\DesafioSistemaEstacionamento.runtimeconfig.json
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\bin\Debug\net6.0\DesafioSistemaEstacionamento.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\bin\Debug\net6.0\DesafioSistemaEstacionamento.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\obj\Debug\net6.0\DesafioSistemaEstacionamento.csproj.AssemblyReference.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\obj\Debug\net6.0\DesafioSistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\obj\Debug\net6.0\DesafioSistemaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\obj\Debug\net6.0\DesafioSistemaEstacionamento.AssemblyInfo.cs
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\obj\Debug\net6.0\DesafioSistemaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\obj\Debug\net6.0\DesafioSistemaEstacionamento.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\obj\Debug\net6.0\refint\DesafioSistemaEstacionamento.dll
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\obj\Debug\net6.0\DesafioSistemaEstacionamento.pdb
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\obj\Debug\net6.0\DesafioSistemaEstacionamento.genruntimeconfig.cache
+C:\Users\jnalm\Desktop\ProjetoConsole\DesafioSistemaEstacionamento\DesafioSistemaEstacionamento\obj\Debug\net6.0\ref\DesafioSistemaEstacionamento.dll
